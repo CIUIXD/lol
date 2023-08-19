@@ -5094,7 +5094,7 @@ div[role=radiogroup] {
   width: 28px;
   height: 28px;
   x: 0;
-  y: -4px;
+  y: -10px;
   rx: 14px;
   fill: var(--switch-knob-color);
   transition: var(--switch-animation);
@@ -5109,7 +5109,7 @@ div[role=radiogroup] {
   width: 28px;
   height: 28px;
   x: 4px;
-  y: -4px;
+  y: -10px;
 }
 .bd-switch input:checked + .bd-switch-body {
   --switch-color: var(--switch-color-checked);
